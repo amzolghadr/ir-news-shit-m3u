@@ -1,16 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="News",Hamshahri TV
+https://stream2.hamshahri.ir/live/hamshahri/master.m3u8
+
 #EXTINF:-1 group-title="News",SNN TV 1
 https://live2.snn.ir/hls/live/a98a72566fda21688cd6a059f081a64c/index.m3u8
 
 #EXTINF:-1 group-title="News",SNN TV 2
 https://live2.snn.ir/hls/live/94063eb22dc1ffb6f139c76c1f9133eb/index.m3u8
-
-#EXTINF:-1 group-title="News",IRNA TV 1
-http://tv.irna.ir/live/stream/index.m3u8
-
-#EXTINF:-1 group-title="News",IRNA TV 2
-http://tv2.irna.ir/live/stream/index.m3u8
 
 #EXTINF:-1 group-title="News",On TV 1
 https://ontv.arvanlive.ir/hls/websitechannel21/websitechannel21.m3u8
@@ -21,19 +18,33 @@ https://ontv.arvanlive.ir/hls/onnewswebch2/onnewswebch2.m3u8
 #EXTINF:-1 group-title="News",On TV 3
 https://ontv.arvanlive.ir/hls/onnewswebch1/onnewswebch1.m3u8
 
-# ---- Still missing (no permanent token-free URL yet): paste when found ----
+# ---- Aparat live pages (token-free page links; the app resolves them itself) ----
 
-# #EXTINF:-1 group-title="News",Hamshahri TV
-# PASTE_HAMSHAHRI_M3U8_URL_HERE
+#EXTINF:-1 group-title="News",IRNA (Aparat)
+https://www.aparat.com/irna/live
 
-# #EXTINF:-1 group-title="News",Madar TV
-# PASTE_MADAR_M3U8_URL_HERE
+#EXTINF:-1 group-title="News",ISNA (Aparat)
+https://www.aparat.com/ISNA/live
 
-# #EXTINF:-1 group-title="News",ISNA
-# PASTE_ISNA_M3U8_URL_HERE
+#EXTINF:-1 group-title="News",ISNA 2 (Aparat)
+https://www.aparat.com/ISNA2/live
 
-# #EXTINF:-1 group-title="News",ISNA 2
-# PASTE_ISNA2_M3U8_URL_HERE
+#EXTINF:-1 group-title="News",Quds 24 (Aparat)
+https://www.aparat.com/qudsonline/live
 
-# #EXTINF:-1 group-title="News",Quds 24
-# PASTE_QUDS24_M3U8_URL_HERE
+#EXTINF:-1 group-title="News",Madar TV (Aparat)
+https://www.aparat.com/MADAAR_TV/live
+
+#EXTINF:-1 group-title="News",Mehr News 2 (Aparat)
+https://www.aparat.com/mehrnews2/live
+
+#EXTINF:-1 group-title="News",Fars News (Aparat)
+https://www.aparat.com/tv.farsnews/live
+
+# ---- Direct IRNA streams (did not play in OneElevate TV; may work in other players) ----
+
+# #EXTINF:-1 group-title="News",IRNA TV 1 (direct)
+# http://tv.irna.ir/live/stream/index.m3u8
+
+# #EXTINF:-1 group-title="News",IRNA TV 2 (direct)
+# http://tv2.irna.ir/live/stream/index.m3u8
