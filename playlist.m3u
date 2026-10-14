@@ -1,4 +1,4 @@
-#EXTM3U
+8#EXTM3U
 
 #EXTINF:-1 group-title="News",Hamshahri TV
 https://stream2.hamshahri.ir/live/hamshahri/master.m3u8
@@ -40,6 +40,8 @@ https://www.aparat.com/mehrnews2/live
 
 #EXTINF:-1 group-title="News",Fars News (Aparat)
 https://www.aparat.com/tv.farsnews/live
+
+https://www.aparat.com/MEHRNEWS/live
 
 # ---- Direct IRNA streams (did not play in OneElevate TV; may work in other players) ----
 
