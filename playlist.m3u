@@ -18,31 +18,6 @@ https://ontv.arvanlive.ir/hls/onnewswebch2/onnewswebch2.m3u8
 #EXTINF:-1 group-title="News",On TV 3
 https://ontv.arvanlive.ir/hls/onnewswebch1/onnewswebch1.m3u8
 
-# ---- Aparat live pages (token-free page links; the app resolves them itself) ----
-
-#EXTINF:-1 group-title="News",IRNA (Aparat)
-https://www.aparat.com/irna/live
-
-#EXTINF:-1 group-title="News",ISNA (Aparat)
-https://www.aparat.com/ISNA/live
-
-#EXTINF:-1 group-title="News",ISNA 2 (Aparat)
-https://www.aparat.com/ISNA2/live
-
-#EXTINF:-1 group-title="News",Quds 24 (Aparat)
-https://www.aparat.com/qudsonline/live
-
-#EXTINF:-1 group-title="News",Madar TV (Aparat)
-https://www.aparat.com/MADAAR_TV/live
-
-#EXTINF:-1 group-title="News",Mehr News 2 (Aparat)
-https://www.aparat.com/mehrnews2/live
-
-#EXTINF:-1 group-title="News",Fars News (Aparat)
-https://www.aparat.com/tv.farsnews/live
-
-https://www.aparat.com/MEHRNEWS/live
-
 # ---- Direct IRNA streams (did not play in OneElevate TV; may work in other players) ----
 
 # #EXTINF:-1 group-title="News",IRNA TV 1 (direct)
